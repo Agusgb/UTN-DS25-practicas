@@ -15,12 +15,12 @@ const Formulario = () => {
 
         <div className="mb-3">
           <label htmlFor="name" className="form-label">Nombre</label>
-          <input type="text" id="name" name="name" placeholder="Julian" className="form-control" />
+          <input type="text" id="name" name="name" placeholder="Agustin" className="form-control" />
         </div>
 
         <div className="mb-3">
           <label htmlFor="ape" className="form-label">Apellido</label>
-          <input type="text" id="ape" name="ape" placeholder="Figueira" className="form-control" />
+          <input type="text" id="ape" name="ape" placeholder="Gonzalez" className="form-control" />
         </div>
 
         <div className="mb-3">
@@ -30,7 +30,7 @@ const Formulario = () => {
 
         <div className="mb-3">
           <label htmlFor="mail" className="form-label">Mail</label>
-          <input type="email" id="mail" name="mail" placeholder="julianfigueira485..." className="form-control" />
+          <input type="email" id="mail" name="mail" placeholder="Agustin.gonzalez.." className="form-control" />
         </div>
 
         <div className="mb-3">
